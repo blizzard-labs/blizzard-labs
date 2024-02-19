@@ -1,3 +1,5 @@
+![banner](https://github.com/blizzard-labs/blizzard-labs/blob/main/krishnabhattbanner.png?raw=true)
+
 - 👋 Hi, I’m @blizzard-labs
 - 👀 I’m interested in neuroscience, comp neuro, ai/ml models
 - 🌱 I’m currently learning: MRtrix functionalities.
