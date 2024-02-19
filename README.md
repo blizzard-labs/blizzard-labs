@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @blizzard-labs
 - 👀 I’m interested in neuroscience, comp neuro, ai/ml models
 - 🌱 I’m currently learning: MRtrix functionalities.
-- 📫 How to reach me: [krishna-bhatt.com](krishna-bhatt.com)
+- 📫 How to reach me: [krishna-bhatt.com](https://krishna-bhatt.com)
 - 😄 Pronouns: (he/him/his)
 
 <!---
