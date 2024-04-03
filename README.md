@@ -5,9 +5,4 @@
 - 🌱 I’m currently learning: MRtrix functionalities
 - 😄 Pronouns: (he/him/his)
 
-Created my github ages ago, but finally setting it up! In the process of creating repositories for my code.
-
-<!---
-blizzard-labs/blizzard-labs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Still setting up my GitHub
