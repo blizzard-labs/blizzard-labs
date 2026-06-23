@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @blizzard-labs
-- 👀 I’m interested in neuroscience, comp neuro, AI/ML models
-- 😄 Pronouns: (he/him/his)
+👋 Hi, I’m @blizzard-labs
